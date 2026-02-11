@@ -73,7 +73,6 @@ int main()
     return 0;
 }
 
-
 /*
 Merge sort is a popular sorting algorithm known for its efficiency and stability. It follows the Divide and Conquer approach.
 
